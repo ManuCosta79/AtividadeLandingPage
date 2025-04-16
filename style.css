@@ -1,0 +1,33 @@
+/* ====== GLOBAL STYLES | Dev: Renato | Linhas: 1–19 ====== */
+/* Reset, tipografia, espaçamentos gerais, classes utilitárias */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+
+
+  
+/* ====== HEADER STYLES | Dev: Renato | Linhas: 20–39 ====== */
+/* Estilos da <header> */
+
+
+/* ====== HERO SECTION STYLES | Dev: Yanna | Linhas: 40–59 ====== */
+/* Estilos da seção principal (#hero) */
+
+
+/* ====== FEATURES SECTION STYLES | Dev: Lenne | Linhas: 60–79 ====== */
+/* Estilos da seção de funcionalidades (#features) */
+
+
+/* ====== FOOTER STYLES | Dev: Manu | Linhas: 80–99 ====== */
+/* Estilos do <footer> */
